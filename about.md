@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: Sobre mi
 permalink: /about/
 ---
 
-Some information about you!
+Soy un estudiante de la licenciatura en ciencias de la computación y director del cineclub de la universidad.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Me gustan los animales, la comida oriental y salir a pasear.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Gaspar.davila@outlook.com
